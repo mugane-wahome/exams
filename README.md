@@ -4,7 +4,7 @@ ChatGPT seems to be unable to generate diverse Biology questions, thus resulting
 
 # Prep & Learn
 
-![Prep & Learn](./public/assets/imgs/logo-no-background.png)
+<!-- ![Prep & Learn](./public/assets/imgs/logo-no-background.png) -->
 
 ## Inspiring Potential, Encouraging Dreams: Your Portal to Free Learning
 
