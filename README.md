@@ -1,6 +1,6 @@
 # Request for Help
 
-ChatGPT seems to be unable to generete diverse Biology questions, thus resulting in lots of repeated questions with even the exact same wording. If you know any other AI or Tool (Free to use) that can do better please let me know, or if you want to help make them yourself, please contact me [minkhaung.mkks@gmail.com](mailto:minkhaung.mkks@gmail.com)
+ChatGPT seems to be unable to generate diverse Biology questions, thus resulting in lots of repeated questions with even the exact same wording. If you know any other AI or Tool (Free to use) that can do better please let me know, or if you want to help make them yourself, please contact me [muganewahome@gmail.com](mailto:muganewahome@gmail.com)
 
 # Prep & Learn
 
@@ -12,7 +12,6 @@ Hi, and thanks for stopping by! This repository houses a project that I hold clo
 
 ## You can test it [here](https://prep-learn.vercel.app/)
 
-
 ## 📝 Latest Update
 
 31/08/2023 : The mobile version is really helping people get onboard, I was even asked to work on the school education platform. I gonna focus on trying to get auth to work with firebase. Gonna see how it goes from there.
@@ -21,31 +20,30 @@ Hi, and thanks for stopping by! This repository houses a project that I hold clo
 
 23/08/2023 : Still a bit sick and have exams for this whole week, also I'm focusing on learning firebase for now so everything gonna be on hold for a while
 
-Looking into Firebase to serve as an actual backened for the app.
+Looking into Firebase to serve as an actual backend for the app.
 
-About 40% done on the new method of creating tests(question creation logic pretty much done)
+About 40% done on the new method of creating tests (question creation logic pretty much done)
 
 Currently Known Bugs : None
 
 Urgent Goal: Polish up the tablet version too.
 
-Goal for a spare time: add the option to type the section and questions by hand. ( Might try it to make it tmr after school)
+Goal for a spare time: add the option to type the section and questions by hand. (Might try it to make it tomorrow after school)
 
-Quiz mode is done along with the summary screen, while time quizzes still remain, I think I gonna take a break from this app for now, the whole thing is pretty much ready and built. Bugs have been tested and fixed. While some design leave me unsatisfied it majority of the time they look great. I gonna focus on learning a bit more and finishing my GED exams, I might come back to this app to add new tests for myself and friends but thats probably it for now. I look forward to gaining enough skills to craft a login and user system by which I would consider the app to be fully ready and done.
+Quiz mode is done along with the summary screen, while timed quizzes still remain, I think I gonna take a break from this app for now, the whole thing is pretty much ready and built. Bugs have been tested and fixed. While some design leave me unsatisfied it majority of the time they look great. I gonna focus on learning a bit more and finishing my GED exams, I might come back to this app to add new tests for myself and friends but that's probably it for now. I look forward to gaining enough skills to craft a login and user system by which I would consider the app to be fully ready and done.
 
-Good luck to anyone that stumbles on my app. The source code as it stands is free to use just give me credit. I might take this whole thing private when I implement the member system for commerical and security reasons, but the code as it stands right now will remain on this repo, I will only take the further codes private.
-
+Good luck to anyone that stumbles on my app. The source code as it stands is free to use just give me credit. I might take this whole thing private when I implement the member system for commercial and security reasons, but the code as it stands right now will remain on this repo, I will only take the further codes private.
 
 ## 🕖 Current Planned Timeline
 
 Please note these times are the worst possible times, In reality I hope to have everything production ready by mid July
 
-- [x] Launch of the app with just the functions to choose quizes and answer them (June 20th 2023) Progess : 100% DONE
-- [x] New method to save answers ( July 20th 2023 ) Done
-- [ ] Time Quizes (July 25th 2023) Progress : Might prioritize Quiz Mode Over this
+- [x] Launch of the app with just the functions to choose quizzes and answer them (June 20th 2023) Progress : 100% DONE
+- [x] New method to save answers (July 20th 2023) Done
+- [ ] Timed Quizzes (July 25th 2023) Progress : Might prioritize Quiz Mode Over this
 - [x] Quiz Mode (July 15th 2023) Progress : Done.
 - [ ] Switch to MongoDB for data storage (N/A) Not sure if I wanna switch to Database yet.
-- [ ] Login with google (N/A) Not sure if I want to go this route, instead focusing on making the base functions a lot better and more user friendly
+- [ ] Login with Google (N/A) Not sure if I want to go this route, instead focusing on making the base functions a lot better and more user friendly
 - [ ] Login with other providers (N/A)
 - [ ] Crash Courses (N/A) Focus switched to diversifying question types.
 - [ ] User roles (N/A) Unsure
@@ -70,7 +68,7 @@ These are the essential components of the app, and they must be bug-free before 
 1. Convert text input into a set of questions and answers swiftly.
 2. Present the questions to the user for answering.
 3. Provide a score to the user upon submission of the exam.
-4. Store your unsubmitted data inside local storage to persists through refresh and accidental closing of the tab.
+4. Store your unsubmitted data inside local storage to persist through refresh and accidental closing of the tab.
 
 ### 🎈 Add-on Features
 
@@ -88,7 +86,7 @@ These features would be great additions to the app if feasible.
 These features would be awesome to have, but they might be challenging to implement due to their complexity.
 
 1. User roles for teachers and students, and even class grouping. This feature would enable schools to use the app to assign practice work and homework.
-2. Identifying the user weaknesses and suggesting quizzes to improve on those.
+2. Identifying the user's weaknesses and suggesting quizzes to improve on those.
 3. Provide Burmese translation for words on hover or click
 
 ## 🤝 Let's Collaborate
@@ -97,21 +95,5 @@ I invite like-minded individuals passionate about education to collaborate on th
 
 ## 📬 Get in Touch
 
-Have ideas or suggestions? I would love to hear from you! Please feel free to reach out to me at [minkhaung.mkks@gmail.com](mailto:minkhaung.mkks@gmail.com) 📧. Let's work together to make learning accessible for all! 🌍🎓
-
-## Free Resources Used
-
-![Prep & Learn](./public/assets/imgs/logo-no-background.png)
-
-App Logo from [logo.com](https://logo.com/)
-
-3 Vector Graphics from [Vecteezy](https://www.vecteezy.com/)
-
-![Studying Vector Graphic](./public/assets/imgs/590.jpg)
-![Studying Vector Graphic](./public/assets/imgs/AI.jpg)
-![Problem Solving Vector Graphic](./public/assets/imgs/636_generated.jpg)
-
-Button 5 from [Collection of Button Hover Effects codepen by David Conner](https://codepen.io/davidicus/pen/emgQKJ) as baseline for the final call to action button pulse effect.
-
-Button 30 from [92 cool css buttons from CSS Scan](https://getcssscan.com/css-buttons-examples) as the baseline for take a quiz btn.
+Have ideas or suggestions? I would love to hear from you! Please feel free to reach out to me at [muganewahome@gmail.com](mailto:muganewahome@gmail.com) 📧. Let's work together to make learning accessible for all! 🌍🎓
 
