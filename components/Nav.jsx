@@ -18,16 +18,16 @@ const Nav = () => {
             </Link>
             <div className="rightNav">
                 <Link className='nav_links' href='/practices'>
-                    Practice Tests
+                    GED exams Practice Tests
                 </Link>
                 <Link className='lockedLinks nav_links' href='/study_bits'>
-                    Crash Courses
+                    HESI exams practice tests
                 </Link>
                 <Link className='lockedLinks nav_links' href='/about'>
-                    About
+                TEAS exams practice tests
                 </Link>
                 <Link className='lockedLinks nav_links' href='/contribute'>
-                    Contribute
+                    Other proctored exams
                 </Link>
             </div>
         </nav>
